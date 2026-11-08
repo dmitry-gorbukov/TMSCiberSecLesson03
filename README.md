@@ -3,7 +3,7 @@
 
 **Студент:** Горбуков Дмитрий
 
-**Инструменты:** Burp Suite Community Edition, Firefox, Kali Linux, Juice Shop.
+**Инструменты:** 
 
 ---
 
