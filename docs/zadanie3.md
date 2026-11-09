@@ -360,7 +360,6 @@ Host: 45.33.32.156 (scanme.nmap.org)    Ports: 22/open/tcp//ssh///, 80/open/tcp/
 ### 4. Отдельная команда: только порты в grepable-формате в терминал
 
 ![порты в grepable-формате](../img/2026-11-09_10-45.png)
-c
 
 
 [На главную](../README.md)
